@@ -1,0 +1,32 @@
+<svg width="800" height="480" viewBox="0 0 800 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="480" fill="#DBEAFE"/>
+  
+  <!-- Global map background -->
+  <circle cx="400" cy="240" r="180" fill="#BFDBFE" opacity="0.5"/>
+  <ellipse cx="400" cy="240" rx="280" ry="150" fill="#93C5FD" opacity="0.3"/>
+  
+  <!-- People figures -->
+  <g transform="translate(250, 180)">
+    <circle cx="0" cy="0" r="25" fill="#3B82F6"/>
+    <rect x="-20" y="30" width="40" height="50" rx="5" fill="#60A5FA"/>
+    <rect x="-15" y="35" width="30" height="3" rx="1.5" fill="#DBEAFE"/>
+  </g>
+  
+  <g transform="translate(550, 180)">
+    <circle cx="0" cy="0" r="25" fill="#EF4444"/>
+    <rect x="-20" y="30" width="40" height="50" rx="5" fill="#F87171"/>
+    <rect x="-15" y="35" width="30" height="3" rx="1.5" fill="#FEE2E2"/>
+  </g>
+  
+  <!-- Location pins -->
+  <path d="M350 320L350 340L360 355L350 370L340 355Z" fill="#10B981"/>
+  <circle cx="350" cy="335" r="8" fill="#FFFFFF"/>
+  
+  <path d="M450 320L450 340L460 355L450 370L440 355Z" fill="#10B981"/>
+  <circle cx="450" cy="335" r="8" fill="#FFFFFF"/>
+  
+  <!-- Briefcase icon -->
+  <rect x="360" y="100" width="80" height="60" rx="8" fill="#F59E0B"/>
+  <rect x="380" y="85" width="40" height="20" rx="4" fill="#D97706"/>
+  <line x1="380" y1="130" x2="420" y2="130" stroke="#FCD34D" stroke-width="3"/>
+</svg>

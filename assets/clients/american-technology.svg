@@ -1,0 +1,5 @@
+<svg width="140" height="50" viewBox="0 0 140 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="25" cy="20" r="8" stroke="#1e293b" stroke-width="2"/>
+  <path d="M25 20L30 25" stroke="#1e293b" stroke-width="2" stroke-linecap="round"/>
+  <text x="10" y="40" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#1e293b">American Technology</text>
+</svg>
